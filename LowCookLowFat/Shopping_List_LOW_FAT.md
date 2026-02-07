@@ -62,7 +62,6 @@
 
 ### Produce (Buy Weekly)
 - [ ] **Orange sweet potatoes** - 7 medium
-- [ ] **Onions** - 4 medium (optional - cook with sweet potatoes for quercetin)
 - [ ] **Baby kale** - 3 bags (5oz each) or 1 large container
 - [ ] **Carrots** - 7 large
 - [ ] **Red bell peppers** - 7
@@ -82,7 +81,7 @@
 ### Pantry
 - [ ] **Rolled oats** - small bag (40g/day = ~1.2 lbs/month)
 - [ ] **Medjool dates** - 2 lb container
-- [ ] **Sunflower seeds** - small bag (10g/day)
+- [ ] **Sunflower seeds** - small bag (20g/day)
 - [ ] **Brazil nuts** - small bag (1/day = 7/week)
 - [ ] **Blackstrap molasses** - 1 bottle (lasts ~2 weeks at 2 tbsp/day)
 

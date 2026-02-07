@@ -23,10 +23,11 @@ One blender batch per day, divided into 3 servings (~2,050 calories, ~127g prote
 - [ ] 2 tbsp ground flaxseed (14g)
 - [ ] 1 Brazil nut (4g)
 - [ ] 2 tbsp wheat germ (14g)
-- [ ] 1 tbsp sunflower seeds (10g)
+- [ ] 2 tbsp sunflower seeds (20g)
 
-### Greens
+### Greens & Cruciferous
 - [ ] 3 cups baby kale (200g)
+- [ ] 1/2 cup frozen cauliflower (~60g, steamed 2-3 min before blending)
 
 ### Fruit
 - [ ] 1 cup frozen mango (~165g)
@@ -49,6 +50,7 @@ One blender batch per day, divided into 3 servings (~2,050 calories, ~127g prote
 ### The Night Before
 
 1. Have a boiled sweet potato ready in the fridge (see Chewables Prep Guide for batch boiling method)
+2. Move frozen cauliflower to fridge to thaw overnight
 
 ### Morning Blend Order
 
@@ -58,7 +60,7 @@ Add ingredients to the blender in this order for best results:
 2. **Sweet potato:** Scoop cold flesh from skin (cold = more resistant starch)
 3. **Soft items:** 4 pitted dates, frozen mango, frozen berries
 4. **Legumes:** Drained/rinsed lentils and black beans
-5. **Greens:** 3 cups baby kale
+5. **Greens & cruciferous:** 3 cups baby kale + steamed cauliflower
 6. **Dry ingredients:** Oats, sorghum flour, protein powder, wheat germ, creatine
 7. **Fats:** Ground flaxseed, sunflower seeds, 1 Brazil nut
 8. **Flavor:** Vanilla bean powder
@@ -107,6 +109,7 @@ These go alongside the shake, not in it:
 - **Blackstrap molasses is strong.** The dates, mango, and berries mask it well. If you still taste it, add a splash more soy milk.
 - **Creatine is tasteless.** It dissolves completely in the shake — no need to take it separately.
 - **Resistant starch bonus.** Using cold sweet potato (from the fridge) increases resistant starch, which feeds beneficial gut bacteria. Don't reheat it before blending.
+- **Cauliflower is undetectable.** Steamed cauliflower blends smooth and disappears behind the fruit and dates. Raw baby kale provides myrosinase to convert cauliflower's glucoraphanin into sulforaphane — no mustard powder needed.
 
 ---
 

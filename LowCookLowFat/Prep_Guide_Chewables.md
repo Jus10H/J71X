@@ -11,11 +11,9 @@ These foods are eaten alongside the shake, not blended into it. They provide cru
 | Food | Daily Amount | Key Nutrients |
 |------|-------------|---------------|
 | Frozen Broccoli | 1/2 cup (45g) | Sulforaphane, vitamin C, lutein |
-| Frozen Cauliflower | 1/2 cup (60g) | Glucosinolates, polyphenols, vitamin C |
 | Shiitake Mushrooms | 1 oz (~28g) | Ergothioneine ("longevity vitamin"), immune support |
 | White Button Mushrooms | 5 mushrooms (~45g) | Aromatase inhibition (cancer prevention), IgA boost |
 | Orange Sweet Potato | 1 large (~200g) | Beta-carotene (vitamin A), potassium, resistant starch |
-| Onion (optional) | 1/2 medium (~55g) | Quercetin (senolytic), antioxidants |
 | Raw Carrot | 1 large | Vitamin A, fiber |
 | Raw Red Bell Pepper | 1 whole | Vitamin C (highest vegetable source) |
 | Nutritional Yeast | 2.5 tbsp (12g) | B vitamins, protein |
@@ -45,32 +43,6 @@ The mustard powder provides its own myrosinase enzyme, which converts the (heat-
 - **High-heat stir-frying** — nearly eliminates lutein
 
 > *Source: [NutritionFacts.org - How to Cook Broccoli](https://nutritionfacts.org/blog/how-to-cook-broccoli/), [Second Strategy to Cooking Broccoli](https://nutritionfacts.org/video/second-strategy-to-cooking-broccoli/)*
-
----
-
-### Cauliflower: Steam + Mustard Powder
-
-**Why this matters:** Cauliflower contains **glucosinolates** (the same family of anti-cancer compounds as broccoli) and significant **polyphenols** and **flavonoids**. The same myrosinase issue applies.
-
-**Same frozen caveat:** Frozen cauliflower has no active myrosinase. Use mustard powder.
-
-**Method:**
-1. Thaw frozen cauliflower
-2. **Steam for 2-3 minutes** — just until tender
-3. **Sprinkle a pinch of mustard powder** before eating
-
-**Why steaming wins:**
-| Method | Glucosinolate Loss |
-|--------|--------------------|
-| Steaming | 19% |
-| Blanching (boiling + cold water) | 42% |
-| Boiling | 55% |
-
-**Avoid:**
-- **Boiling** — 55% glucosinolate loss, significant polyphenol/flavonoid loss into the water
-- **Extended cooking beyond 3 minutes** — losses increase substantially with time
-
-> *Source: [NutritionFacts.org - Best Way to Cook Vegetables](https://nutritionfacts.org/blog/what-is-the-best-way-to-cook-vegetables/), [PMC - Effect of Cooking on Cauliflower](https://pmc.ncbi.nlm.nih.gov/articles/PMC6615361/)*
 
 ---
 
@@ -142,33 +114,6 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 
 ---
 
-### Onion: Raw When Possible, Baked When Cooking
-
-**Why this matters:** Onions are rich in **quercetin**, a powerful flavonoid with senolytic (anti-aging), anti-inflammatory, and antioxidant properties. They also have **antiplatelet (blood-thinning) activity** — but these two benefits respond very differently to heat.
-
-**The unique thing about onions:** They are one of only three vegetables (with artichokes and beets) whose **overall antioxidant capacity is NOT reduced by any cooking method** — even boiling.
-
-**However, specific compounds are affected:**
-
-| Compound | Best Method | Worst Method |
-|----------|-----------|-------------|
-| Quercetin bioaccessibility | **Baking** (65-80% bioaccessible) | Boiling (76% quercetin lost to water) |
-| Antiplatelet activity | **Raw** (abolished within 10 min of cooking) | Any cooking |
-| Overall antioxidant capacity | Any method (unaffected) | None — always preserved |
-
-**Recommended approaches:**
-- **Best:** Eat raw — slice thin and eat alongside the shake as a chewable. Maximum quercetin + antiplatelet benefits.
-- **Good:** Bake quartered — highest quercetin bioaccessibility of any cooking method.
-- **Acceptable:** Dry saute 3-5 minutes in a hot pan without oil.
-
-**Avoid:**
-- **Boiling** — 76% quercetin loss (84.7% anthocyanin loss in red onions) because compounds leach into water
-- **Do NOT boil with sweet potatoes** unless you drink the broth
-
-> *Source: [NutritionFacts.org - Best Cooking Method](https://nutritionfacts.org/video/best-cooking-method/), [NutritionFacts.org - Raw vs Cooked Onions](https://nutritionfacts.org/blog/raw-vs-cooked-garlic-and-onions-for-blood-thinning/), [PMC - Onion Phenolic Bioaccessibility](https://pmc.ncbi.nlm.nih.gov/articles/PMC8151956/)*
-
----
-
 ## Weekly Batch Prep
 
 ### Sunday Prep (~30 minutes)
@@ -180,7 +125,7 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 4. Cool on the counter, then refrigerate whole
 5. Each morning, scoop cold flesh into blender
 
-**Broccoli & Cauliflower:**
+**Broccoli:**
 - Keep frozen until ready to use each day
 - Each day: thaw a portion, steam 1-3 minutes, add mustard powder
 
@@ -193,18 +138,14 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 - Wash and store whole in the fridge
 - Eat raw each day — no prep needed beyond rinsing
 
-**Onion (if using):**
-- Keep whole until ready to use
-- Slice fresh each day for maximum benefit (raw)
-
 ---
 
 ## Daily Assembly
 
 | Meal | Chewables |
 |------|-----------|
-| **Morning** | Steamed broccoli + cauliflower (with mustard powder), raw carrot |
-| **Midday** | Microwaved mushrooms (shiitake + white button), raw bell pepper, raw onion slices (optional) |
+| **Morning** | Steamed broccoli (with mustard powder), raw carrot |
+| **Midday** | Microwaved mushrooms (shiitake + white button), raw bell pepper |
 | **Evening** | Nutritional yeast (sprinkle on food or by spoonful) |
 
 *Distribute however you prefer — the schedule above is a suggestion. The goal is to eat everything by end of day.*
@@ -213,7 +154,7 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 
 ## Quick Reference: Mustard Powder
 
-Keep a small jar of regular yellow mustard powder next to where you eat. A pinch on broccoli and cauliflower is all it takes. This one simple habit can be the difference between getting sulforaphane or not.
+Keep a small jar of regular yellow mustard powder next to where you eat. A pinch on broccoli is all it takes. This one simple habit can be the difference between getting sulforaphane or not. (Cauliflower gets its myrosinase from raw baby kale in the shake.)
 
 ---
 
@@ -222,11 +163,9 @@ Keep a small jar of regular yellow mustard powder next to where you eat. A pinch
 | Food | Method | Time | Key Trick |
 |------|--------|------|-----------|
 | Broccoli (frozen) | Steam | 1-3 min | Mustard powder after |
-| Cauliflower (frozen) | Steam | 2-3 min | Mustard powder after |
 | Shiitake Mushrooms | Microwave | 2-3 min | Never eat raw — ergothioneine source |
 | White Button Mushrooms | Microwave | 2-3 min | Never eat raw — #1 for aromatase inhibition |
 | Sweet Potato | Boil whole, skin on, lid on | ~20 min | Refrigerate for resistant starch |
-| Onion | Raw (best) or baked | N/A or until soft | Eat raw for antiplatelet benefits |
 | Carrot | Raw | None | Just wash |
 | Bell Pepper | Raw | None | Just wash |
 | Nutritional Yeast | No cooking | None | Sprinkle on anything |
