@@ -22,7 +22,6 @@ One blender batch per day, divided into 3 servings (~2,050 calories, ~127g prote
 ### Fats
 - [ ] 2 tbsp ground flaxseed (14g)
 - [ ] 1 Brazil nut (4g)
-- [ ] 2 tbsp wheat germ (14g)
 - [ ] 2 tbsp sunflower seeds (20g)
 
 ### Greens & Cruciferous
@@ -30,8 +29,8 @@ One blender batch per day, divided into 3 servings (~2,050 calories, ~127g prote
 - [ ] 1/2 cup frozen cauliflower (~60g, steamed 2-3 min before blending)
 
 ### Fruit
-- [ ] 1 cup frozen mango (~165g)
-- [ ] 1/2 cup frozen berries (~75g)
+- [ ] 1 cup Wawona Organic Daybreak Blend (~140g) — peaches, mango, strawberries, pineapple
+- [ ] 1/2 cup frozen dark sweet cherries (~70g) — anthocyanins, anti-inflammatory
 
 ### Calcium
 - [ ] 2 tbsp blackstrap molasses (40g)
@@ -58,10 +57,10 @@ Add ingredients to the blender in this order for best results:
 
 1. **Liquids first:** 1.5 cups soy milk + 1 cup water + 2 tbsp blackstrap molasses
 2. **Sweet potato:** Scoop cold flesh from skin (cold = more resistant starch)
-3. **Soft items:** 4 pitted dates, frozen mango, frozen berries
+3. **Soft items:** 4 pitted dates, Daybreak Blend fruit, frozen cherries
 4. **Legumes:** Drained/rinsed lentils and black beans
 5. **Greens & cruciferous:** 3 cups baby kale + steamed cauliflower
-6. **Dry ingredients:** Oats, sorghum flour, protein powder, wheat germ, creatine
+6. **Dry ingredients:** Oats, sorghum flour, protein powder, creatine
 7. **Fats:** Ground flaxseed, sunflower seeds, 1 Brazil nut
 8. **Flavor:** Vanilla bean powder
 
@@ -104,9 +103,9 @@ These go alongside the shake, not in it:
 ## Tips
 
 - **Legumes are optional in the blend.** If the texture is off, eat lentils and black beans on the side instead. The nutrition is the same either way.
-- **Frozen fruit acts as ice.** The mango and berries chill the shake and improve texture. No need to add ice.
+- **Frozen fruit acts as ice.** The Daybreak Blend and cherries chill the shake and improve texture. No need to add ice.
 - **Shake thickens over time.** Servings 2 and 3 will be thicker from the fridge. Add a splash of water when reblending or shaking before drinking.
-- **Blackstrap molasses is strong.** The dates, mango, and berries mask it well. If you still taste it, add a splash more soy milk.
+- **Blackstrap molasses is strong.** The dates and frozen fruit mask it well. If you still taste it, add a splash more soy milk.
 - **Creatine is tasteless.** It dissolves completely in the shake — no need to take it separately.
 - **Resistant starch bonus.** Using cold sweet potato (from the fridge) increases resistant starch, which feeds beneficial gut bacteria. Don't reheat it before blending.
 - **Cauliflower is undetectable.** Steamed cauliflower blends smooth and disappears behind the fruit and dates. Raw baby kale provides myrosinase to convert cauliflower's glucoraphanin into sulforaphane — no mustard powder needed.

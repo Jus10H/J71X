@@ -95,7 +95,6 @@ This version combines:
 | **Black Cumin (Nigella sativa)** | 1/4 tsp | $0.05 |
 | **Garlic Powder** | 1/4 tsp | $0.02 |
 | **Cayenne** | pinch | $0.02 |
-| **Cinnamon (Ceylon)** | 1/2 tsp | $0.05 |
 
 ### FLAVOR & SWEETNESS
 

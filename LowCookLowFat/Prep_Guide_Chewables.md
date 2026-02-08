@@ -12,10 +12,11 @@ These foods are eaten alongside the shake, not blended into it. They provide cru
 |------|-------------|---------------|
 | Frozen Broccoli | 1/2 cup (45g) | Sulforaphane, vitamin C, lutein |
 | Shiitake Mushrooms | 1 oz (~28g) | Ergothioneine ("longevity vitamin"), immune support |
-| White Button Mushrooms | 5 mushrooms (~45g) | Aromatase inhibition (cancer prevention), IgA boost |
+| Oyster Mushrooms | 1/2 cup (~45g) | Spermidine (7-10x more than white button), niacin |
 | Orange Sweet Potato | 1 large (~200g) | Beta-carotene (vitamin A), potassium, resistant starch |
 | Raw Carrot | 1 large | Vitamin A, fiber |
-| Raw Red Bell Pepper | 1 whole | Vitamin C (highest vegetable source) |
+| Raw Red Bell Pepper | 1 whole | Vitamin C (highest vegetable source), vitamin E |
+| Frozen Green Peas | 1 cup (~160g) | Spermidine (replaces wheat germ), protein, fiber, lutein |
 | Nutritional Yeast | 2.5 tbsp (12g) | B vitamins, protein |
 
 ---
@@ -52,12 +53,12 @@ The mustard powder provides its own myrosinase enzyme, which converts the (heat-
 
 1. **Ergothioneine** — dubbed the "longevity vitamin" by biochemist Bruce Ames. Of 100+ compounds measured in the bloodstreams of thousands of people, ergothioneine was the single compound most associated with the lowest rates of heart disease, stroke, and death from all causes over 20+ years. Blood levels decline after age 60, correlating with cognitive decline and frailty. **Shiitake mushrooms have the highest ergothioneine content** of any mushroom tested. White button and chanterelle have negligible amounts.
 
-2. **Aromatase inhibition** — In a landmark study comparing vegetables' ability to suppress an enzyme used by breast cancer cells, **plain white button mushrooms came in #1**, suppressing aromatase activity by more than 60% (vs ~20% for broccoli, carrots, spinach). Just 5 mushrooms per day may be sufficient. White button also boosted IgA antibody production by 50% after one week of consumption.
+2. **Spermidine** — Oyster mushrooms contain 60–89 nmol/g of spermidine, roughly 7–10x more than white button mushrooms. Spermidine induces autophagy (cellular self-cleaning) and was the dietary compound most associated with reduced mortality in the 20-year Bruneck Study. Oyster mushrooms replace wheat germ as the protocol's primary spermidine source alongside green peas.
 
 **Why you must cook them:** Raw mushrooms (especially button, cremini, portobello) contain **agaritine**, a potentially carcinogenic compound. Raw shiitake can cause **flagellate dermatitis** (a painful skin reaction). Cooking destroys agaritine and makes nutrients more bioavailable by breaking down chitin cell walls.
 
 **Method:**
-1. Slice shiitake (~1 oz) and white button (~5 mushrooms)
+1. Slice shiitake (~1 oz) and oyster mushrooms (~1/2 cup)
 2. Place on a microwave-safe plate
 3. **Microwave on high for 2-3 minutes**
 4. Eat alongside the shake
@@ -130,9 +131,9 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 - Each day: thaw a portion, steam 1-3 minutes, add mustard powder
 
 **Mushrooms:**
-- Store fresh shiitake and white button in the fridge in a paper bag (not plastic — they need airflow)
+- Store fresh shiitake and oyster mushrooms in the fridge in a paper bag (not plastic — they need airflow)
 - Use within 5-7 days of purchase
-- Each day: slice 1 oz shiitake + 5 white button, microwave 2-3 minutes
+- Each day: slice 1 oz shiitake + 1/2 cup oyster, microwave 2-3 minutes
 
 **Carrots & Bell Peppers:**
 - Wash and store whole in the fridge
@@ -145,7 +146,7 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 | Meal | Chewables |
 |------|-----------|
 | **Morning** | Steamed broccoli (with mustard powder), raw carrot |
-| **Midday** | Microwaved mushrooms (shiitake + white button), raw bell pepper |
+| **Midday** | Microwaved mushrooms (shiitake + oyster), raw bell pepper, steamed peas |
 | **Evening** | Nutritional yeast (sprinkle on food or by spoonful) |
 
 *Distribute however you prefer — the schedule above is a suggestion. The goal is to eat everything by end of day.*
@@ -164,7 +165,8 @@ Keep a small jar of regular yellow mustard powder next to where you eat. A pinch
 |------|--------|------|-----------|
 | Broccoli (frozen) | Steam | 1-3 min | Mustard powder after |
 | Shiitake Mushrooms | Microwave | 2-3 min | Never eat raw — ergothioneine source |
-| White Button Mushrooms | Microwave | 2-3 min | Never eat raw — #1 for aromatase inhibition |
+| Oyster Mushrooms | Microwave | 2-3 min | Never eat raw — top spermidine source |
+| Green Peas (frozen) | Steam or microwave | 2-3 min | Spermidine, replaces wheat germ |
 | Sweet Potato | Boil whole, skin on, lid on | ~20 min | Refrigerate for resistant starch |
 | Carrot | Raw | None | Just wash |
 | Bell Pepper | Raw | None | Just wash |

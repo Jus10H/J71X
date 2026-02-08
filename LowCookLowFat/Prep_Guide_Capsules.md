@@ -2,7 +2,7 @@
 
 ## Overview
 
-All spices and superfoods are taken as capsules to avoid ruining the shake's taste. Using size **000 capsules** (XPRS Nutra, HPMC veggie caps), batch-fill weekly.
+All spices and superfoods are taken as capsules to avoid ruining the shake's taste. Using size **000 capsules** (XPRS Nutra, HPMC veggie caps), batch-fill every ~8 days using a 100-capsule filling machine.
 
 ---
 
@@ -25,52 +25,54 @@ All spices and superfoods are taken as capsules to avoid ruining the shake's tas
 
 ---
 
-## Weekly Batch Fill Instructions
+## 100-Capsule Batch Fill Instructions (~8 days)
 
 ### What You Need
 
-- XPRS Nutra size 000 empty veggie capsules
-- Capsule filling machine (size 000)
+- XPRS Nutra size 000 empty veggie capsules (100 ct)
+- Capsule filling machine (size 000, 100-capsule capacity)
 - Digital kitchen scale
-- Small mixing bowl
+- Blender (for mixing powders evenly)
 - All 8 spice/superfood powders
 
-### Step 1: Measure the Weekly Mix
+### Step 1: Measure the Batch Mix
 
-Multiply each ingredient by 7 for a full week:
+100 capsules ÷ 12 capsules/day = **~8 days per batch.**
 
-| Ingredient | Weekly Amount |
-|------------|--------------|
-| Amla Powder | 7 tsp (~21g) |
-| Ground Turmeric | 3.5 tsp (~10.5g) |
-| Long Pepper (Pippali) | 1.75 tsp (~4.2g) |
-| Ground Ginger | 7 tsp (~17.5g) |
-| Cumin | 7 tsp (~17.5g) |
-| Black Cumin (Nigella sativa) | 1.75 tsp (~4.2g) |
-| Garlic Powder | 1.75 tsp (~4.9g) |
-| Cayenne (90K HU) | 1.75 tsp (~4.2g) |
-| **TOTAL** | **~84g** |
+| Ingredient | Per Batch (100 caps) |
+|------------|---------------------|
+| Amla Powder | 8 tsp (~25g) |
+| Ground Turmeric | 4 tsp (~12.5g) |
+| Long Pepper (Pippali) | 2 tsp (~5g) |
+| Ground Ginger | 8 tsp (~21g) |
+| Cumin | 8 tsp (~21g) |
+| Black Cumin (Nigella sativa) | 2 tsp (~5g) |
+| Garlic Powder | 2 tsp (~6g) |
+| Cayenne (90K HU) | 2 tsp (~5g) |
+| **TOTAL** | **~100g** |
 
-### Step 2: Mix Thoroughly
+### Step 2: Blend to Mix
 
-1. Add all measured powders to the mixing bowl
-2. Stir well for 60+ seconds to distribute evenly — especially the cayenne and turmeric, which are potent in concentrated form
-3. The mix should look uniform in color (brownish-gold)
+1. Add all measured powders to a blender
+2. **Pulse 5-10 times** until uniform in color (brownish-gold)
+3. Do not over-blend — short pulses are enough to homogenize
+
+Blending ensures even distribution of cayenne and turmeric throughout the mix. No hot spots.
 
 ### Step 3: Fill Capsules
 
-1. Load the capsule machine with 000 caps (body side down, caps set aside)
-2. Pour the powder mix over the machine
+1. Load the capsule machine with 100 caps (body side down, caps set aside)
+2. Pour the blended powder mix over the machine
 3. Use the spreader/tamper to pack powder into each capsule body
 4. Tamp down firmly — a well-packed 000 cap holds ~1,000mg
 5. Place the caps on top and press to close
-6. **Weekly total: ~84 capsules** (12/day x 7 days)
+6. **Batch total: 100 capsules (~8 days)**
 
 ### Step 4: Store
 
 - Store filled capsules in a glass jar or resealable bag
 - Keep in a cool, dry, dark place
-- Use within 1 week (the mix contains moisture-sensitive ingredients)
+- Use within 2 weeks (the mix contains moisture-sensitive ingredients)
 
 ---
 
@@ -111,8 +113,9 @@ These are purchased pre-made, NOT filled at home:
 ## Capsule Supply Math
 
 - 12 capsules/day x 30 days = **360 capsules/month**
-- XPRS Nutra 100ct bag = ~8 days of capsules
-- Reorder every 3-4 weeks (or buy multiple bags)
+- 100-capsule batch = ~8 days
+- **~4 batches per month**
+- XPRS Nutra 100ct bag = 1 batch, reorder every 3-4 weeks (or buy 4+ bags at a time)
 
 ---
 

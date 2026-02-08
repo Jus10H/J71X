@@ -79,7 +79,6 @@ This is a baked version of the meal replacement protocol, designed to:
 | Cumin | 2 tbsp + 1 tsp |
 | Black cumin (Nigella sativa) | 1.75 tsp |
 | Garlic powder | 1.75 tsp |
-| Ceylon cinnamon | 1 tbsp + 1 tsp |
 | Cayenne | 1/2 tsp (or to taste) |
 | Vanilla bean powder | 1 tbsp |
 

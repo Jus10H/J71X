@@ -14,7 +14,6 @@
 |------|-------|----------------|------|-----------|
 | **Sorghum Flour** | Bob's Red Mill or Namaste Foods | Organic, gluten-free certified, dedicated allergen-free facility (Namaste) | [Amazon - Bob's Red Mill](https://www.amazon.com/Bobs-Red-Mill-Sorghum-Flour/dp/B004VLVBFA) | ~$8/22oz |
 | **Ground Flaxseed** | Terrasoul Superfoods | 3rd party lab tested for cadmium, SQF certified, provides results upon request | [Amazon](https://www.amazon.com/Terrasoul-Superfoods-Organic-Golden-Pounds/dp/B00LUXODLS) | ~$15/2lb |
-| **Wheat Germ** | Bob's Red Mill or Lekithos | Lekithos is organic, single-ingredient, no additives | [Amazon - Bob's Red Mill](https://www.amazon.com/Bobs-Red-Mill-Wheat-Germ/dp/B004VLVCIS) | ~$8/12oz |
 
 ### Superfoods & Spices
 
@@ -66,13 +65,14 @@
 - [ ] **Carrots** - 7 large
 - [ ] **Red bell peppers** - 7
 - [ ] **Shiitake mushrooms** - 7 oz (~1 oz/day, ergothioneine "longevity vitamin")
-- [ ] **White button mushrooms** - 1 container (~5/day, #1 aromatase inhibitor)
+- [ ] **Oyster mushrooms** - 7 oz (~1/2 cup/day, top spermidine source)
 
 ### Frozen (Buy Monthly)
 - [ ] **Broccoli florets** - 2 bags
 - [ ] **Cauliflower florets** - 2 bags
-- [ ] **Mango chunks** - 2 bags (non-organic OK - Clean Fifteen)
-- [ ] **Mixed berries** - 2 bags (blueberries, strawberries, raspberries)
+- [ ] **Green peas** - 2 bags (organic, ~1 cup/day — spermidine source, replaces wheat germ)
+- [ ] **Wawona Organic Daybreak Blend** - 1 bag (4 lbs, Costco) — peaches, mango, strawberries, pineapple
+- [ ] **Dark sweet cherries** - 2 bags — anthocyanins, anti-inflammatory
 
 ### Canned (Buy Monthly)
 - [ ] **Organic lentils** - 7 cans
@@ -129,8 +129,8 @@
 |-----------|-------|
 | Weekly | Sweet potatoes, kale, carrots, bell peppers |
 | Bi-weekly | Soy milk, blackstrap molasses |
-| Monthly | Frozen veg, frozen mango, canned legumes, dates |
-| Every 2-3 months | Protein powder, flaxseed, wheat germ, sunflower seeds, Brazil nuts |
+| Monthly | Frozen veg, frozen peas, frozen mango, canned legumes, dates |
+| Every 2-3 months | Protein powder, flaxseed, sunflower seeds, Brazil nuts |
 | Every 3-6 months | Supplements, spices, superfoods |
 
 ---
