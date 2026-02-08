@@ -18,7 +18,8 @@ All spices and superfoods are taken as capsules to avoid ruining the shake's tas
 | Black Cumin (Nigella sativa) | 1/4 tsp | ~0.6g |
 | Garlic Powder | 1/4 tsp | ~0.7g |
 | Cayenne (90K HU) | 1/4 tsp | ~0.6g |
-| **TOTAL** | | **~12g** |
+| Ground Cloves | 1/8 tsp | ~0.3g |
+| **TOTAL** | | **~12.3g** |
 
 **Size 000 capacity:** ~1,000mg per capsule
 **Capsules per day:** ~12 capsules (4 per shake serving)
@@ -33,7 +34,7 @@ All spices and superfoods are taken as capsules to avoid ruining the shake's tas
 - Capsule filling machine (size 000, 100-capsule capacity)
 - Digital kitchen scale
 - Blender (for mixing powders evenly)
-- All 8 spice/superfood powders
+- All 9 spice/superfood powders
 
 ### Step 1: Measure the Batch Mix
 
@@ -49,7 +50,8 @@ All spices and superfoods are taken as capsules to avoid ruining the shake's tas
 | Black Cumin (Nigella sativa) | 2 tsp (~5g) |
 | Garlic Powder | 2 tsp (~6g) |
 | Cayenne (90K HU) | 2 tsp (~5g) |
-| **TOTAL** | **~100g** |
+| Ground Cloves | 1 tsp (~2.5g) |
+| **TOTAL** | **~103g** |
 
 ### Step 2: Blend to Mix
 

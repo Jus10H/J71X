@@ -34,6 +34,7 @@
 | **Cumin Powder** | Spice Profile | Lab tested for 250+ parameters, USDA Organic, non-irradiated | [Amazon](https://www.amazon.com/Spice-Profile-Organic-Resealable-Aromatic/dp/B0CP8ZYKFC) | ~$8/4oz | **1 tsp** (weight loss - 1/2 tsp lunch + dinner) |
 | **Cayenne Pepper (90K HU)** | Starwest Botanicals | USDA Organic, Kosher, in-house + 3rd party lab tested (ICP-MS for heavy metals), cGMP, full lot traceability | [Amazon](https://www.amazon.com/Cayenne-Pepper-Powder-90K-H-U/dp/B002DY1GC2) | ~$22/1lb | pinch (capsaicin benefits — higher HU = more capsaicin per dose) |
 | **Garlic Powder** | Starwest Botanicals | USDA Organic, Kosher, in-house + 3rd party lab tested (ICP-MS for heavy metals), cGMP, full lot traceability | [Amazon](https://www.amazon.com/Starwest-Botanicals-Organic-Garlic-Powder/dp/B001F7E95O) | ~$22/1lb | **1/4 tsp** ("penny's worth") |
+| **Ground Cloves** | Starwest Botanicals or Spice Profile | USDA Organic, lab tested for heavy metals | [Amazon](https://www.amazon.com/Starwest-Botanicals-Organic-Ground-Cloves/dp/B003QSZOU6) | ~$15/1lb | **1/8 tsp** (highest polyphenol content of any food) |
 
 **Note:** Long pepper (pippali) replaces black pepper. It has stronger anti-inflammatory properties, senolytic compounds (anti-aging), and boosts turmeric absorption like black pepper does. Safe in culinary doses but avoid during pregnancy.
 
@@ -73,6 +74,11 @@
 - [ ] **Green peas** - 2 bags (organic, ~1 cup/day — spermidine source, replaces wheat germ)
 - [ ] **Wawona Organic Daybreak Blend** - 1 bag (4 lbs, Costco) — peaches, mango, strawberries, pineapple
 - [ ] **Dark sweet cherries** - 2 bags — anthocyanins, anti-inflammatory
+- [ ] **Blueberries** - 2 bags — polyphenols, anthocyanins
+
+### Fermented Foods (Buy Bi-weekly)
+- [ ] **Miso paste (unpasteurized)** - 1 tub (must be refrigerated, not shelf-stable)
+- [ ] **Sauerkraut (raw, unpasteurized)** - 1 jar (refrigerated section, ingredients: cabbage + salt only)
 
 ### Canned (Buy Monthly)
 - [ ] **Organic lentils** - 7 cans
@@ -128,8 +134,8 @@
 | Frequency | Items |
 |-----------|-------|
 | Weekly | Sweet potatoes, kale, carrots, bell peppers |
-| Bi-weekly | Soy milk, blackstrap molasses |
-| Monthly | Frozen veg, frozen peas, frozen mango, canned legumes, dates |
+| Bi-weekly | Soy milk, blackstrap molasses, miso paste, sauerkraut |
+| Monthly | Frozen veg, frozen peas, frozen fruit, frozen blueberries, canned legumes, dates |
 | Every 2-3 months | Protein powder, flaxseed, sunflower seeds, Brazil nuts |
 | Every 3-6 months | Supplements, spices, superfoods |
 

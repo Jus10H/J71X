@@ -18,6 +18,8 @@ These foods are eaten alongside the shake, not blended into it. They provide cru
 | Raw Red Bell Pepper | 1 whole | Vitamin C (highest vegetable source), vitamin E |
 | Frozen Green Peas | 1 cup (~160g) | Spermidine (replaces wheat germ), protein, fiber, lutein |
 | Nutritional Yeast | 2.5 tbsp (12g) | B vitamins, protein |
+| Miso Paste (unpasteurized) | 1 tbsp (~18g) | Fermented — microbiome diversity, probiotics |
+| Sauerkraut (raw, unpasteurized) | 2-3 tbsp (~30-45g) | Fermented — microbiome diversity, probiotics |
 
 ---
 
@@ -147,9 +149,30 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 |------|-----------|
 | **Morning** | Steamed broccoli (with mustard powder), raw carrot |
 | **Midday** | Microwaved mushrooms (shiitake + oyster), raw bell pepper, steamed peas |
-| **Evening** | Nutritional yeast (sprinkle on food or by spoonful) |
+| **Evening** | Nutritional yeast (sprinkle on food or by spoonful), miso (dissolved in warm water), sauerkraut |
 
 *Distribute however you prefer — the schedule above is a suggestion. The goal is to eat everything by end of day.*
+
+---
+
+## Fermented Foods: Miso & Sauerkraut
+
+**Why this matters:** The Stanford Sonnenburg Lab RCT (2021) found that a high-fermented-food diet (6+ servings/day) significantly increased microbiome diversity and reduced inflammatory markers (IL-6, IL-10, IL-18) — effects NOT seen with high-fiber alone. Dr. Will Bulsiewicz identifies fermented foods as one of the 4 nutritional workhorses for gut health.
+
+**Miso (1 tbsp/day):**
+- Dissolve in warm (not hot/boiling) water — heat kills live probiotics
+- Drink as a simple broth alongside the evening shake
+- Choose **unpasteurized/raw** miso (refrigerated section, not shelf-stable)
+- White (shiro) miso is mildest; red/dark miso has more probiotics but stronger flavor
+
+**Sauerkraut (2-3 tbsp/day):**
+- Must be **raw, unpasteurized** (refrigerated section — shelf-stable brands are pasteurized and contain no live cultures)
+- Eat straight or alongside chewables
+- Look for ingredients: cabbage + salt only (no vinegar)
+
+**Avoid:**
+- **Pasteurized/shelf-stable** versions of either — no live cultures
+- **Boiling miso** — destroys probiotics (warm water only)
 
 ---
 
@@ -171,3 +194,5 @@ Keep a small jar of regular yellow mustard powder next to where you eat. A pinch
 | Carrot | Raw | None | Just wash |
 | Bell Pepper | Raw | None | Just wash |
 | Nutritional Yeast | No cooking | None | Sprinkle on anything |
+| Miso Paste | Dissolve in warm water | None | Never boil — kills probiotics |
+| Sauerkraut | No cooking | None | Must be raw/unpasteurized |

@@ -31,6 +31,7 @@ One blender batch per day, divided into 3 servings (~2,050 calories, ~127g prote
 ### Fruit
 - [ ] 1 cup Wawona Organic Daybreak Blend (~140g) — peaches, mango, strawberries, pineapple
 - [ ] 1/2 cup frozen dark sweet cherries (~70g) — anthocyanins, anti-inflammatory
+- [ ] 1/2 cup frozen blueberries (~75g) — polyphenols, anthocyanins
 
 ### Calcium
 - [ ] 2 tbsp blackstrap molasses (40g)
@@ -57,7 +58,7 @@ Add ingredients to the blender in this order for best results:
 
 1. **Liquids first:** 1.5 cups soy milk + 1 cup water + 2 tbsp blackstrap molasses
 2. **Sweet potato:** Scoop cold flesh from skin (cold = more resistant starch)
-3. **Soft items:** 4 pitted dates, Daybreak Blend fruit, frozen cherries
+3. **Soft items:** 4 pitted dates, Daybreak Blend fruit, frozen cherries, frozen blueberries
 4. **Legumes:** Drained/rinsed lentils and black beans
 5. **Greens & cruciferous:** 3 cups baby kale + steamed cauliflower
 6. **Dry ingredients:** Oats, sorghum flour, protein powder, creatine
