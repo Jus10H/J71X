@@ -2,7 +2,7 @@
 
 ## Overview
 
-One blender batch per day, divided into 3 servings (~2,050 calories, ~127g protein). Drink one serving with each meal alongside capsules, chewables, and supplements.
+One blender batch per day, divided into 3 servings (~2,006 calories, ~139g protein). Drink one serving with each meal alongside capsules, chewables, and supplements.
 
 ---
 
@@ -10,7 +10,7 @@ One blender batch per day, divided into 3 servings (~2,050 calories, ~127g prote
 
 ### Base
 - [ ] 1/2 cup rolled oats (40g)
-- [ ] 1/2 cup sorghum flour (80g)
+- [ ] 1/4 cup sorghum flour (40g, pre-toasted)
 - [ ] 1 large orange sweet potato (~200g cooked, flesh scooped)
 - [ ] 1 can organic lentils (15oz, drained and rinsed)
 - [ ] 1/2 can organic black beans (~130g, drained and rinsed)
@@ -22,7 +22,7 @@ One blender batch per day, divided into 3 servings (~2,050 calories, ~127g prote
 ### Fats
 - [ ] 2 tbsp ground flaxseed (14g)
 - [ ] 1 Brazil nut (4g)
-- [ ] 2 tbsp sunflower seeds (20g)
+- [ ] 1 tbsp sunflower seeds (10g)
 
 ### Greens & Cruciferous
 - [ ] 3 cups baby kale (200g)
@@ -37,7 +37,7 @@ One blender batch per day, divided into 3 servings (~2,050 calories, ~127g prote
 - [ ] 2 tbsp blackstrap molasses (40g)
 
 ### Flavor
-- [ ] 4 Medjool dates, pitted (~65g)
+- [ ] 2 Medjool dates, pitted (~33g)
 - [ ] 1/2 tsp pure vanilla bean powder (1g)
 
 ### Add to Shake
@@ -58,7 +58,7 @@ Add ingredients to the blender in this order for best results:
 
 1. **Liquids first:** 1.5 cups soy milk + 1 cup water + 2 tbsp blackstrap molasses
 2. **Sweet potato:** Scoop cold flesh from skin (cold = more resistant starch)
-3. **Soft items:** 4 pitted dates, Daybreak Blend fruit, frozen cherries, frozen blueberries
+3. **Soft items:** 2 pitted dates, Daybreak Blend fruit, frozen cherries, frozen blueberries
 4. **Legumes:** Drained/rinsed lentils and black beans
 5. **Greens & cruciferous:** 3 cups baby kale + steamed cauliflower
 6. **Dry ingredients:** Oats, sorghum flour, protein powder, creatine
@@ -98,6 +98,20 @@ These go alongside the shake, not in it:
 | Spice capsules (4 per serving) | Swallow with shake |
 | Supplements | See Capsule Prep Guide |
 | Chewables | See Chewables Prep Guide |
+
+---
+
+## Toasting Sorghum Flour (Do Once Per Bag)
+
+Raw flour is not sterile — the CDC warns against consuming uncooked flour due to E. coli and Salmonella risk. Raw sorghum also contains anti-nutrients (phytic acid, tannins, trypsin inhibitors) that block mineral and protein absorption. Toasting solves both problems.
+
+1. Pour the entire bag of sorghum flour into a large dry skillet
+2. Heat over **medium heat for 3-5 minutes**, stirring frequently
+3. It's done when it smells **nutty** and has darkened very slightly
+4. Let cool completely, then pour back into the bag or an airtight container
+5. Store at room temperature — use as normal in the shake
+
+This only needs to be done once when you open a new bag. The toasted flour keeps the same shelf life.
 
 ---
 

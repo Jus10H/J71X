@@ -17,6 +17,7 @@ These foods are eaten alongside the shake, not blended into it. They provide cru
 | Raw Carrot | 1 large | Vitamin A, fiber |
 | Raw Red Bell Pepper | 1 whole | Vitamin C (highest vegetable source), vitamin E |
 | Frozen Green Peas | 1 cup (~160g) | Spermidine (replaces wheat germ), protein, fiber, lutein |
+| Butternut Squash (frozen) | 1/2 cup (~100g) | Vitamin E (best mg-per-g-fat ratio), vitamin A, potassium |
 | Nutritional Yeast | 2.5 tbsp (12g) | B vitamins, protein |
 | Miso Paste (unpasteurized) | 1 tbsp (~18g) | Fermented — microbiome diversity, probiotics |
 | Sauerkraut (raw, unpasteurized) | 2-3 tbsp (~30-45g) | Fermented — microbiome diversity, probiotics |
@@ -117,6 +118,33 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 
 ---
 
+### Butternut Squash: Steam for Vitamin E & Beta-Carotene
+
+**Why this matters:** Butternut squash has the best vitamin E-to-fat ratio of any whole food (13 mg vitamin E per gram of fat). It's also loaded with beta-carotene (vitamin A) and potassium. The cooking method makes a significant difference in what you actually absorb.
+
+**Critical finding:** Cooking butternut squash **increases beta-carotene bioavailability by up to 228%** compared to raw. Heat breaks down cell walls, releasing carotenoids that are otherwise trapped. So cooked squash delivers *more* usable vitamin A than raw, even though raw measures higher on paper.
+
+**Method (frozen pre-cut):**
+1. Place 1/2 cup (~100g) frozen butternut squash cubes in a steamer basket
+2. **Steam for 3-5 minutes** until fork-tender (frozen pre-cut cooks fast)
+3. Eat alongside the shake — the fat in the meal (flaxseed, sunflower seeds) boosts absorption of both vitamin E and beta-carotene
+
+**Why steaming wins:**
+| Method | Vitamin E | Vitamin C | Beta-Carotene | Potassium |
+|--------|-----------|-----------|---------------|-----------|
+| **Steaming** | **~90% retained** | **80-90%** | **Best bioavailability** | **Best** |
+| Microwaving | ~85-90% | 90%+ | Good | Good |
+| Roasting | ~85-90% | 75-85% | Good | Good |
+| **Boiling** | **76-92%** | **0-74%** | **Worst (leaches out)** | **Worst** |
+
+**Avoid:**
+- **Boiling** — water leaches potassium, vitamin C, and carotenoids
+- **Overcooking** — 3-5 minutes for frozen cubes is plenty; mushy squash means nutrient loss
+
+> *Source: [PMC - Effect of cooking methods on vitamin E and K content](https://pmc.ncbi.nlm.nih.gov/articles/PMC10050254/), [PMC - Carotene content in raw and cooked butternut squash](https://pmc.ncbi.nlm.nih.gov/articles/PMC5224544/)*
+
+---
+
 ## Weekly Batch Prep
 
 ### Sunday Prep (~30 minutes)
@@ -137,6 +165,10 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 - Use within 5-7 days of purchase
 - Each day: slice 1 oz shiitake + 1/2 cup oyster, microwave 2-3 minutes
 
+**Butternut Squash:**
+- Keep frozen until ready to use each day
+- Each day: steam 1/2 cup frozen cubes for 3-5 minutes
+
 **Carrots & Bell Peppers:**
 - Wash and store whole in the fridge
 - Eat raw each day — no prep needed beyond rinsing
@@ -148,7 +180,7 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 | Meal | Chewables |
 |------|-----------|
 | **Morning** | Steamed broccoli (with mustard powder), raw carrot |
-| **Midday** | Microwaved mushrooms (shiitake + oyster), raw bell pepper, steamed peas |
+| **Midday** | Microwaved mushrooms (shiitake + oyster), raw bell pepper, steamed peas, butternut squash |
 | **Evening** | Nutritional yeast (sprinkle on food or by spoonful), miso (dissolved in warm water), sauerkraut |
 
 *Distribute however you prefer — the schedule above is a suggestion. The goal is to eat everything by end of day.*
@@ -193,6 +225,7 @@ Keep a small jar of regular yellow mustard powder next to where you eat. A pinch
 | Sweet Potato | Boil whole, skin on, lid on | ~20 min | Refrigerate for resistant starch |
 | Carrot | Raw | None | Just wash |
 | Bell Pepper | Raw | None | Just wash |
+| Butternut Squash (frozen) | Microwave or steam | 3-4 min | Vitamin E — pair with bell pepper |
 | Nutritional Yeast | No cooking | None | Sprinkle on anything |
 | Miso Paste | Dissolve in warm water | None | Never boil — kills probiotics |
 | Sauerkraut | No cooking | None | Must be raw/unpasteurized |

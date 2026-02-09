@@ -75,6 +75,7 @@
 - [ ] **Wawona Organic Daybreak Blend** - 1 bag (4 lbs, Costco) — peaches, mango, strawberries, pineapple
 - [ ] **Dark sweet cherries** - 2 bags — anthocyanins, anti-inflammatory
 - [ ] **Blueberries** - 2 bags — polyphenols, anthocyanins
+- [ ] **Butternut squash (pre-cut)** - 2 bags — vitamin E, vitamin A, potassium
 
 ### Fermented Foods (Buy Bi-weekly)
 - [ ] **Miso paste (unpasteurized)** - 1 tub (must be refrigerated, not shelf-stable)
