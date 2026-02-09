@@ -64,7 +64,6 @@
 - [ ] **Orange sweet potatoes** - 7 medium
 - [ ] **Baby kale** - 3 bags (5oz each) or 1 large container
 - [ ] **Carrots** - 7 large
-- [ ] **Red bell peppers** - 7
 - [ ] **Shiitake mushrooms** - 7 oz (~1 oz/day, ergothioneine "longevity vitamin")
 - [ ] **Oyster mushrooms** - 7 oz (~1/2 cup/day, top spermidine source)
 
@@ -134,7 +133,7 @@
 
 | Frequency | Items |
 |-----------|-------|
-| Weekly | Sweet potatoes, kale, carrots, bell peppers |
+| Weekly | Sweet potatoes, kale, carrots |
 | Bi-weekly | Soy milk, blackstrap molasses, miso paste, sauerkraut |
 | Monthly | Frozen veg, frozen peas, frozen fruit, frozen blueberries, canned legumes, dates |
 | Every 2-3 months | Protein powder, flaxseed, sunflower seeds, Brazil nuts |

@@ -2,25 +2,27 @@
 
 ## Overview
 
-These foods are eaten alongside the shake, not blended into it. They provide crucial nutrients that benefit from chewing (jaw health, satiety) and require specific preparation for maximum nutrition.
+These foods are eaten alongside the shake or as a standalone warm bowl for Meal 3. The protocol follows a **6-hour eating window** (time-restricted eating) with 2 shake servings and 1 warm bowl.
 
 ---
 
-## Daily Chewables
+## Daily Chewables & Warm Bowl Ingredients
 
-| Food | Daily Amount | Key Nutrients |
-|------|-------------|---------------|
-| Frozen Broccoli | 1/2 cup (45g) | Sulforaphane, vitamin C, lutein |
-| Shiitake Mushrooms | 1 oz (~28g) | Ergothioneine ("longevity vitamin"), immune support |
-| Oyster Mushrooms | 1/2 cup (~45g) | Spermidine (7-10x more than white button), niacin |
-| Orange Sweet Potato | 1 large (~200g) | Beta-carotene (vitamin A), potassium, resistant starch |
-| Raw Carrot | 1 large | Vitamin A, fiber |
-| Raw Red Bell Pepper | 1 whole | Vitamin C (highest vegetable source), vitamin E |
-| Frozen Green Peas | 1 cup (~160g) | Spermidine (replaces wheat germ), protein, fiber, lutein |
-| Butternut Squash (frozen) | 1/2 cup (~100g) | Vitamin E (best mg-per-g-fat ratio), vitamin A, potassium |
-| Nutritional Yeast | 2.5 tbsp (12g) | B vitamins, protein |
-| Miso Paste (unpasteurized) | 1 tbsp (~18g) | Fermented — microbiome diversity, probiotics |
-| Sauerkraut (raw, unpasteurized) | 2-3 tbsp (~30-45g) | Fermented — microbiome diversity, probiotics |
+| Food | Daily Amount | Key Nutrients | Meal |
+|------|-------------|---------------|------|
+| Raw Carrot | 1 large (~72g) | Vitamin A, fiber | 1 |
+| Organic Lentils (canned, drained) | 1 can (15oz, ~250g) | Protein, folate, iron, fiber, spermidine | 3 (bowl) |
+| Organic Black Beans (canned, drained) | 1/2 can (~130g) | Protein, fiber, anthocyanins, iron | 3 (bowl) |
+| Frozen Broccoli | 1/2 cup (45g) | Sulforaphane, vitamin C, lutein | 3 (bowl) |
+| Shiitake Mushrooms | 1 oz (~28g) | Ergothioneine ("longevity vitamin"), immune support | 3 (bowl) |
+| Oyster Mushrooms | 1/2 cup (~45g) | Spermidine (7-10x more than white button), niacin | 3 (bowl) |
+| Frozen Green Peas | 1 cup (~160g) | Spermidine (replaces wheat germ), protein, fiber, lutein | 3 (bowl) |
+| Butternut Squash (frozen) | 1/2 cup (~100g) | Vitamin E (best mg-per-g-fat ratio), vitamin A, potassium | 3 (bowl) |
+| Sunflower Seeds | 1 tbsp (10g) | Vitamin E, healthy fats — aids absorption of fat-soluble vitamins | 3 (bowl) |
+| Brazil Nut | 1 (4g) | Selenium (1 nut = ~175% DV) | 3 (bowl) |
+| Nutritional Yeast | 2.5 tbsp (12g) | B vitamins, protein | 3 (bowl) |
+| Miso Paste (unpasteurized) | 1 tbsp (~18g) | Fermented — microbiome diversity, probiotics | 3 (bowl) |
+| Sauerkraut (raw, unpasteurized) | 2-3 tbsp (~30-45g) | Fermented — microbiome diversity, probiotics | 3 (bowl) |
 
 ---
 
@@ -169,7 +171,7 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 - Keep frozen until ready to use each day
 - Each day: steam 1/2 cup frozen cubes for 3-5 minutes
 
-**Carrots & Bell Peppers:**
+**Carrots:**
 - Wash and store whole in the fridge
 - Eat raw each day — no prep needed beyond rinsing
 
@@ -177,13 +179,30 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 
 ## Daily Assembly
 
-| Meal | Chewables |
-|------|-----------|
-| **Morning** | Steamed broccoli (with mustard powder), raw carrot |
-| **Midday** | Microwaved mushrooms (shiitake + oyster), raw bell pepper, steamed peas, butternut squash |
-| **Evening** | Nutritional yeast (sprinkle on food or by spoonful), miso (dissolved in warm water), sauerkraut |
+| Time | Meal | What |
+|------|------|------|
+| **8:15am** | Meal 1 | Shake serving 1 + 4 caps + ACV + raw carrot |
+| **11:30am** | Meal 2 | Shake serving 2 + 4 caps |
+| **2:30pm** | Meal 3 | **Warm bowl** + 4 caps + miso broth + sauerkraut |
 
-*Distribute however you prefer — the schedule above is a suggestion. The goal is to eat everything by end of day.*
+*~6 hour eating window (8:15am – 2:30pm).*
+
+### Meal 3: The Warm Bowl
+
+Combine in a large bowl:
+1. Drained/rinsed lentils and black beans
+2. Microwaved mushrooms (shiitake + oyster)
+3. Steamed broccoli (with mustard powder)
+4. Steamed green peas
+5. Steamed butternut squash
+6. Add 1 tbsp sunflower seeds (10g) and 1 Brazil nut (4g)
+7. Top with nutritional yeast
+
+On the side:
+- Miso dissolved in warm water (drink as broth)
+- Sauerkraut (eat straight)
+
+**Estimated Meal 3 totals:** ~912 cal, 12.8g fat, 145g carbs, 59g protein
 
 ---
 
@@ -193,7 +212,7 @@ Agaritine reduction plateaus at ~67% regardless of cooking time — longer than 
 
 **Miso (1 tbsp/day):**
 - Dissolve in warm (not hot/boiling) water — heat kills live probiotics
-- Drink as a simple broth alongside the evening shake
+- Drink as a simple broth alongside the warm bowl
 - Choose **unpasteurized/raw** miso (refrigerated section, not shelf-stable)
 - White (shiro) miso is mildest; red/dark miso has more probiotics but stronger flavor
 
@@ -218,14 +237,15 @@ Keep a small jar of regular yellow mustard powder next to where you eat. A pinch
 
 | Food | Method | Time | Key Trick |
 |------|--------|------|-----------|
+| Lentils (canned) | Drain and rinse | None | Add straight to warm bowl |
+| Black Beans (canned) | Drain and rinse | None | Add straight to warm bowl |
 | Broccoli (frozen) | Steam | 1-3 min | Mustard powder after |
 | Shiitake Mushrooms | Microwave | 2-3 min | Never eat raw — ergothioneine source |
 | Oyster Mushrooms | Microwave | 2-3 min | Never eat raw — top spermidine source |
 | Green Peas (frozen) | Steam or microwave | 2-3 min | Spermidine, replaces wheat germ |
 | Sweet Potato | Boil whole, skin on, lid on | ~20 min | Refrigerate for resistant starch |
 | Carrot | Raw | None | Just wash |
-| Bell Pepper | Raw | None | Just wash |
-| Butternut Squash (frozen) | Microwave or steam | 3-4 min | Vitamin E — pair with bell pepper |
+| Butternut Squash (frozen) | Microwave or steam | 3-4 min | Vitamin E — pair with sunflower seeds for absorption |
 | Nutritional Yeast | No cooking | None | Sprinkle on anything |
 | Miso Paste | Dissolve in warm water | None | Never boil — kills probiotics |
 | Sauerkraut | No cooking | None | Must be raw/unpasteurized |

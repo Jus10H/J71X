@@ -2,7 +2,7 @@
 
 ## Overview
 
-One blender batch per day, divided into 3 servings (~2,006 calories, ~139g protein). Drink one serving with each meal alongside capsules, chewables, and supplements.
+One blender batch per day, divided into 2 servings (~1,460 calories, ~102g protein). Drink one serving at meals 1 and 2. Meal 3 is a warm bowl (see Chewables Prep Guide).
 
 ---
 
@@ -12,8 +12,6 @@ One blender batch per day, divided into 3 servings (~2,006 calories, ~139g prote
 - [ ] 1/2 cup rolled oats (40g)
 - [ ] 1/4 cup sorghum flour (40g, pre-toasted)
 - [ ] 1 large orange sweet potato (~200g cooked, flesh scooped)
-- [ ] 1 can organic lentils (15oz, drained and rinsed)
-- [ ] 1/2 can organic black beans (~130g, drained and rinsed)
 
 ### Protein
 - [ ] 3 scoops Vivo Life Clean Protein (~90g)
@@ -21,8 +19,6 @@ One blender batch per day, divided into 3 servings (~2,006 calories, ~139g prote
 
 ### Fats
 - [ ] 2 tbsp ground flaxseed (14g)
-- [ ] 1 Brazil nut (4g)
-- [ ] 1 tbsp sunflower seeds (10g)
 
 ### Greens & Cruciferous
 - [ ] 3 cups baby kale (200g)
@@ -59,21 +55,20 @@ Add ingredients to the blender in this order for best results:
 1. **Liquids first:** 1.5 cups soy milk + 1 cup water + 2 tbsp blackstrap molasses
 2. **Sweet potato:** Scoop cold flesh from skin (cold = more resistant starch)
 3. **Soft items:** 2 pitted dates, Daybreak Blend fruit, frozen cherries, frozen blueberries
-4. **Legumes:** Drained/rinsed lentils and black beans
-5. **Greens & cruciferous:** 3 cups baby kale + steamed cauliflower
-6. **Dry ingredients:** Oats, sorghum flour, protein powder, creatine
-7. **Fats:** Ground flaxseed, sunflower seeds, 1 Brazil nut
-8. **Flavor:** Vanilla bean powder
+4. **Greens & cruciferous:** 3 cups baby kale + steamed cauliflower
+5. **Dry ingredients:** Oats, sorghum flour, protein powder, creatine
+6. **Fats:** Ground flaxseed
+7. **Flavor:** Vanilla bean powder
 
 ### Blend
 
 - Blend on high for **60-90 seconds**
-- Add water to reach **~1.5-2 liters total** volume
+- Add water to reach **~1-1.5 liters total** volume
 - Should be smooth with no gritty chunks
 
 ### Divide
 
-Pour into 3 equal portions. Refrigerate servings 2 and 3.
+Pour into 2 equal portions. Refrigerate serving 2.
 
 ---
 
@@ -81,9 +76,12 @@ Pour into 3 equal portions. Refrigerate servings 2 and 3.
 
 | Time | What |
 |------|------|
-| **Morning** | Shake serving 1 + 4 spice capsules + 2 tsp ACV + chewables |
-| **Midday** | Shake serving 2 + 4 spice capsules + chewables |
-| **Evening** | Shake serving 3 + 4 spice capsules + chewables |
+| **6:00am** | Wake up, train |
+| **8:15am** | Shake serving 1 + 4 caps + 2 tsp ACV + raw carrot |
+| **11:30am** | Shake serving 2 + 4 caps |
+| **2:30pm** | Warm bowl (see Chewables Prep Guide) + 4 caps + miso broth + sauerkraut + nutritional yeast |
+
+*~6 hour eating window (8:15am – 2:30pm). All meals within window for time-restricted eating.*
 
 ---
 
@@ -94,10 +92,9 @@ These go alongside the shake, not in it:
 | Item | How |
 |------|-----|
 | Apple cider vinegar (2 tsp) | Dilute in water, drink before first meal |
-| Nutritional yeast (2.5 tbsp) | Sprinkle on food or eat by spoonful |
-| Spice capsules (4 per serving) | Swallow with shake |
+| Spice capsules (4 per meal) | Swallow with shake or warm bowl |
 | Supplements | See Capsule Prep Guide |
-| Chewables | See Chewables Prep Guide |
+| Warm bowl (Meal 3) | See Chewables Prep Guide |
 
 ---
 
@@ -117,9 +114,8 @@ This only needs to be done once when you open a new bag. The toasted flour keeps
 
 ## Tips
 
-- **Legumes are optional in the blend.** If the texture is off, eat lentils and black beans on the side instead. The nutrition is the same either way.
 - **Frozen fruit acts as ice.** The Daybreak Blend and cherries chill the shake and improve texture. No need to add ice.
-- **Shake thickens over time.** Servings 2 and 3 will be thicker from the fridge. Add a splash of water when reblending or shaking before drinking.
+- **Shake thickens over time.** Serving 2 will be thicker from the fridge. Add a splash of water when reblending or shaking before drinking.
 - **Blackstrap molasses is strong.** The dates and frozen fruit mask it well. If you still taste it, add a splash more soy milk.
 - **Creatine is tasteless.** It dissolves completely in the shake — no need to take it separately.
 - **Resistant starch bonus.** Using cold sweet potato (from the fridge) increases resistant starch, which feeds beneficial gut bacteria. Don't reheat it before blending.
